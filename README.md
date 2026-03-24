@@ -1,6 +1,10 @@
-# NotchPad
+<p align="center">
+  <img src="notchpad-logo.webp" width="128" alt="NotchPad">
+</p>
 
-**Quick notes, clipboard history, and snippets — right in your MacBook's notch.**
+<h1 align="center">NotchPad</h1>
+
+<p align="center"><strong>Quick notes, clipboard history, and snippets — right in your MacBook's notch.</strong></p>
 
 [Download Latest Release](https://github.com/lemberalla/notchpad-releases/releases/latest) · [Website](https://notchpad.app)
 
