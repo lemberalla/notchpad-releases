@@ -52,3 +52,9 @@ All data is stored locally on your Mac. No cloud, no account, no data collection
 
 - [Website](https://notchpad.app)
 - [Privacy Policy](https://notchpad.app/privacy)
+
+---
+
+<p align="center">
+  Made by <a href="https://tinythings.app">Tiny Things</a>
+</p>
