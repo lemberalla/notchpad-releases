@@ -10,7 +10,7 @@ NotchPad turns your MacBook's notch into a productivity hub. Jot down notes, bro
 
 ## Features
 
-- **Notes** — Rich text notes with formatting (bold, italic, underline, strikethrough)
+- **Notes** — Rich text notes with formatting (bold, italic, underline and strikethrough)
 - **Apple Notes Sync** — Browse and edit your Apple Notes with two-way sync
 - **Clipboard History** — Auto-captures everything you copy (Pro)
 - **Snippets** — Save and reuse text templates (Pro)
