@@ -4,20 +4,22 @@
 
 <h1 align="center">NotchPad</h1>
 
-<p align="center"><strong>Quick notes, clipboard history, and snippets — right in your MacBook's notch.</strong></p>
+<p align="center"><strong>Quick notes, NotchLive voice thoughts, clipboard history, and snippets — right in your MacBook's notch.</strong></p>
 
 [Download Latest Release](https://github.com/lemberalla/notchpad-releases/releases/latest) · [Website](https://notchpad.app)
 
 ---
 
-NotchPad turns your MacBook's notch into a productivity hub. Jot down notes, browse your clipboard history, and save reusable snippets — all one hover away.
+NotchPad turns your MacBook's notch into a private text inbox. Jot down notes, capture NotchLive voice thoughts, browse your clipboard history, and save reusable snippets — all one hover away.
 
 ## Features
 
 - **Notes** — Rich text notes with formatting (bold, italic, underline and strikethrough)
+- **Voice Notes with NotchLive** — Dictate in NotchLive, clean up with AI, and send the note back to NotchPad
 - **Apple Notes Sync** — Browse and edit your Apple Notes with two-way sync
 - **Clipboard History** — Auto-captures everything you copy (Pro)
 - **Snippets** — Save and reuse text templates (Pro)
+- **Flexible Layouts** — Short/Tall and Narrow/Wide modes for compact capture or longer writing
 - **Drag & Drop Import** — Drop documents and code files to create notes (50+ formats)
 - **Encryption** — Lock sensitive notes with password protection
 - **Keyboard Shortcuts** — Quick access from anywhere
@@ -34,6 +36,7 @@ NotchPad turns your MacBook's notch into a productivity hub. Jot down notes, bro
 | | Free | Pro ($7.99 one-time) |
 |---|---|---|
 | Notes | ✓ | ✓ |
+| NotchLive voice handoff | ✓ | ✓ |
 | Apple Notes sync | ✓ | ✓ |
 | Drag & drop import | ✓ | ✓ |
 | Note encryption | ✓ | ✓ |
