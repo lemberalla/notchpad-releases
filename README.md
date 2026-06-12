@@ -33,7 +33,7 @@ NotchPad turns your MacBook's notch into a private text inbox. Jot down notes, c
 
 ## Pricing
 
-| | Free | Pro ($7.99 one-time) |
+| | Free | Pro ($14.99 one-time) |
 |---|---|---|
 | Notes | ✓ | ✓ |
 | NotchLive voice handoff | ✓ | ✓ |
