@@ -1,67 +1,50 @@
-<p align="center">
-  <img src="notchpad-logo.webp" width="128" alt="NotchPad">
-</p>
+<p align="center"><img src="notchpad-logo.webp" width="112" alt="NotchPad"></p>
 
-<h1 align="center">NotchPad</h1>
+# NotchPad
 
-<p align="center"><strong>Quick notes, NotchLive voice thoughts, clipboard history, and snippets — right in your MacBook's notch.</strong></p>
+Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-[Download Latest Release](https://github.com/lemberalla/notchpad-releases/releases/latest) · [Website](https://notchpad.app)
+**NotchPad 1.9.0 · Apple silicon · macOS 15 or later · No notch required**
 
----
+[Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
 
-NotchPad turns your MacBook's notch into a private text inbox. Jot down notes, capture NotchLive voice thoughts, browse your clipboard history, and save reusable snippets — all one hover away.
+## One library, three ways to work
 
-## Features
+- **Desktop workspace:** open notes in tabs, edit in split panes, and return to pinned or recent notes from the sidebar. Folders remain available for projects and topics.
+- **Notch widget:** open Notes, Clipboard or Snippets with double Control, the menu bar, or a hover. Switch back to the workspace when you need more room.
+- **Window stickies:** attach notes to an app, a window, or a supported browser page or Figma file. Move, resize, stack, hide and restore them beside their work. Window tracking requires Accessibility permission.
 
-- **Notes** — Rich text notes with formatting (bold, italic, underline and strikethrough)
-- **Voice Notes with NotchLive** — Dictate in NotchLive, clean up with AI, and send the note back to NotchPad
-- **Apple Notes Sync** — Browse and edit your Apple Notes with two-way sync
-- **Clipboard History** — Auto-captures everything you copy (Pro)
-- **Snippets** — Save and reuse text templates (Pro)
-- **Flexible Layouts** — Short/Tall and Narrow/Wide modes for compact capture or longer writing
-- **Drag & Drop Import** — Drop documents and code files to create notes (50+ formats)
-- **Encryption** — Lock sensitive notes with password protection
-- **Keyboard Shortcuts** — Quick access from anywhere
-- **Liquid Glass UI** — Native macOS 26 design with glass effects
-- **Works Without a Notch** — Floating panel appears at top center on any Mac
+## Write, find and reuse
 
-## System Requirements
+- Rich text with headings, font controls, links, images, editable tables and interactive checklists.
+- Searchable clipboard history for text, links and supported media; star useful items and merge copied text.
+- Named snippets for replies, prompts, commands and other text you paste repeatedly.
+- Command-K searches notes, clipboard items, snippets, settings and actions; Escape closes the palette.
+- Paper, Beige, Charcoal and Midnight workspace themes, with optional background transparency.
 
-- macOS 15 Sequoia or later
-- Glass effects require macOS 26
+## Keep control of your data
 
-## Pricing
+Export password-protected backups of rich notes, embedded images, folders and snippets, with optional clipboard history. Import on another Mac or merge without replacing existing items. Individual notes support rich-text document import and export.
 
-| | Free | Pro ($14.99 one-time) |
-|---|---|---|
-| Notes | ✓ | ✓ |
-| NotchLive voice handoff | ✓ | ✓ |
-| Apple Notes sync | ✓ | ✓ |
-| Drag & drop import | ✓ | ✓ |
-| Note encryption | ✓ | ✓ |
-| Keyboard shortcuts | ✓ | ✓ |
-| Clipboard History | | ✓ |
-| Snippets | | ✓ |
+Use the eye button to hide body contents across the workspace, widget and stickies. Revealing them requires Touch ID or your Mac password. Individually locked notes are encrypted and keep their own authentication. Workspace notes stay unlocked while their tabs remain open.
 
-## Privacy
+## Connect AI apps, or use local AI
 
-All data is stored locally on your Mac. No cloud, no account, no data collection. Apple Notes sync uses local AppleScript — nothing leaves your machine.
+Set up Claude, Codex, Cursor, VS Code or another MCP client inside AI Connections. Choose shared folders and give each connection read and write permissions. Writes create or append notes; they do not reorganize or delete existing notes or folders. Locked notes, Apple Notes links and clipboard history are excluded from MCP.
+
+Built-in rewriting, summaries, translation and folder suggestions use Apple Intelligence on supported Macs with macOS 26 or later. Connected AI apps use their own accounts and providers. Voice capture opens the separate NotchLive app and requires NotchLive Pro.
+
+## Trial and Pro
+
+Start a **14-day full-access trial**, with no card and no automatic charge. NotchPad Pro is **$9.99 once for up to 3 Macs**. Existing Pro licenses keep their access.
+
+Without an active trial or Pro license, saved content remains readable, copyable and exportable. Creating and editing, new clipboard capture, imports and AI writing require trial or Pro access. The Welcome Note remains editable so you can try the editor before starting the trial.
 
 ## Install
 
-1. Download the latest `.dmg` from [Releases](https://github.com/lemberalla/notchpad-releases/releases/latest)
-2. Drag NotchPad to Applications
-3. Grant Automation permission for Apple Notes when prompted
-4. Hover over your notch to get started
+1. Download the [latest signed and notarized DMG](https://github.com/lemberalla/notchpad-releases/releases/latest).
+2. Drag NotchPad into Applications and launch it.
+3. Explore the editable Welcome Note, then start your 14-day trial when you are ready.
+4. Use the desktop workspace, or open the notch widget with double Control.
 
-## Links
-
-- [Website](https://notchpad.app)
-- [Privacy Policy](https://notchpad.app/privacy)
-
----
-
-<p align="center">
-  Made by <a href="https://tinythings.app">Tiny Things</a>
-</p>
+Support: [support@tinythings.app](mailto:support@tinythings.app) · [Privacy](https://notchpad.app/privacy)
