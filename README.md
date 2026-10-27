@@ -4,7 +4,7 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 1.9.2 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 1.9.3 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
 
@@ -17,6 +17,7 @@ Rich notes, clipboard history and reusable snippets for Mac — in a full deskto
 ## Write, find and reuse
 
 - Rich text with headings, font controls, links, images, editable tables and interactive checklists.
+- Built-in dictation in the workspace and widget, with live text, a waveform, a timer and language-download progress. Apple speech recognition runs on your Mac; audio is not saved. Choose your language in Settings → Dictation. A supported on-device language is required.
 - Searchable clipboard history for text, links and supported media; star useful items and merge copied text.
 - Named snippets for replies, prompts, commands and other text you paste repeatedly.
 - Command-K searches notes, clipboard items, snippets, settings and actions; Escape closes the palette.
@@ -32,7 +33,7 @@ Use the eye button to hide body contents across the workspace, widget and sticki
 
 Set up Claude, Codex, Cursor, VS Code or another MCP client inside AI Connections. Choose shared folders and give each connection read and write permissions. Writes create or append notes; they do not reorganize or delete existing notes or folders. Locked notes, Apple Notes links and clipboard history are excluded from MCP.
 
-Built-in rewriting, summaries, translation and folder suggestions use Apple Intelligence on supported Macs with macOS 26 or later. Connected AI apps use their own accounts and providers. Voice capture opens the separate NotchLive app and requires NotchLive Pro.
+Built-in rewriting, summaries, translation and folder suggestions use Apple Intelligence on supported Macs with macOS 26 or later. Connected AI apps use their own accounts and providers. Dictation is included in the NotchPad trial and Pro; no separate app or NotchLive license is needed. Apple Speech is preferred on macOS 26 or later, with an on-device fallback on macOS 15 when the selected language is supported.
 
 ## Trial and Pro
 
