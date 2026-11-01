@@ -4,9 +4,13 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 1.9.3 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 1.9.4 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
+
+## New in 1.9.4
+
+Tabs shrink as space runs out and automatically bring the selected note into view. Attached notes now show their colored sticky badge in the workspace list.
 
 ## One library, three ways to work
 
