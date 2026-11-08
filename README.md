@@ -4,17 +4,18 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 1.9.5 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 2.0.0 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
 
-## New in 1.9.5
+## New in 2.0.0
 
-More reliable MCP request validation and error replies for connected AI apps. Existing shared-note and formatted-writing tools keep their behavior, with Codex and Claude Code smoke tests completed.
+- **Projects:** keep notes, linked Markdown folders, selected Codex and Claude Code chats, people, and links together.
+- **Knowledge and Memory Map:** save decisions with their sources, review agent suggestions, and connect related records.
+- **Skills:** import and edit SKILL.md packages with supporting files. Share skills with authorized agents or install them for Codex and Claude Code.
+- **Notes:** paste and import Markdown as rich text, organize several notes at once, and lock folders.
 
-## Workspace improvements in 1.9.4
-
-Tabs shrink as space runs out and automatically bring the selected note into view. Attached notes now show their colored sticky badge in the workspace list.
+[Explore Projects](https://notchpad.app/projects) · [Read the NotchPad guides](https://notchpad.app/guides)
 
 ## One library, three ways to work
 
@@ -39,7 +40,7 @@ Use the eye button to hide body contents across the workspace, widget and sticki
 
 ## Connect AI apps, or use local AI
 
-Set up Claude, Codex, Cursor, VS Code or another MCP client inside AI Connections. Choose shared folders and give each connection read and write permissions. Writes create or append notes; they do not reorganize or delete existing notes or folders. Locked notes, Apple Notes links and clipboard history are excluded from MCP.
+Set up Claude, Codex, Cursor, VS Code or another MCP client inside AI Connections. Choose shared folders and give each connection read and write permissions. Note writes create or append content. Manage Projects lets a connection manage shared project details, people, links, and knowledge within its granted scope. Locked content, Apple Notes links, clipboard history, and private contact details stay out of MCP.
 
 Built-in rewriting, summaries, translation and folder suggestions use Apple Intelligence on supported Macs with macOS 26 or later. Connected AI apps use their own accounts and providers. Dictation is included in the NotchPad trial and Pro; no separate app or NotchLive license is needed. Apple Speech is preferred on macOS 26 or later, with an on-device fallback on macOS 15 when the selected language is supported.
 
@@ -47,13 +48,13 @@ Built-in rewriting, summaries, translation and folder suggestions use Apple Inte
 
 Start a **14-day full-access trial**, with no card and no automatic charge. NotchPad Pro is **$9.99 once for up to 3 Macs**. Existing Pro licenses keep their access.
 
-Without an active trial or Pro license, saved content remains readable, copyable and exportable. Creating and editing, new clipboard capture, imports and AI writing require trial or Pro access. The Welcome Note remains editable so you can try the editor before starting the trial.
+Without an active trial or Pro license, saved content remains readable, copyable and exportable. Creating and editing, new clipboard capture, imports and AI writing require trial or Pro access. The Welcome Folder gives you short guides and an editable introduction so you can try the editor before starting the trial.
 
 ## Install
 
 1. Download the [latest signed and notarized DMG](https://github.com/lemberalla/notchpad-releases/releases/latest).
 2. Drag NotchPad into Applications and launch it.
-3. Explore the editable Welcome Note, then start your 14-day trial when you are ready.
+3. Open the Welcome Folder, then start your 14-day trial when you’re ready.
 4. Use the desktop workspace, or open the notch widget with double Control.
 
 Support: [support@tinythings.app](mailto:support@tinythings.app) · [Privacy](https://notchpad.app/privacy)
