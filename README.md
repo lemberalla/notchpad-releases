@@ -4,7 +4,7 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 2.0.1 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 2.0.2 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
 
@@ -20,6 +20,10 @@ Rich notes, clipboard history and reusable snippets for Mac — in a full deskto
 ### 2.0.1 Fix — Easier Project Reading
 
 Remember now floats over imported chats. Project documents fade at scroll edges where more text is available, and the last line scrolls clear of the controls.
+
+### 2.0.2 — Keyboard shortcuts and easier chat reading
+
+Change shortcuts in Settings, find text in open notes and project documents, and switch or close tabs from the keyboard. Imported chats open at the latest message, with a message rail to revisit earlier turns. Followed chats update with less memory churn.
 
 ## One library, three ways to work
 
