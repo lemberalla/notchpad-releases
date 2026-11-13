@@ -4,9 +4,14 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 2.1.0 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 2.1.1 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
+
+## New in 2.1.1
+
+- In AI Connections, choose an app to see which projects and sources it can read. Use **Select All** or **Deselect All** to change access in one step.
+- New projects, project documents, linked folders, and added notes are selected by default for eligible connections. Imported chats are also selected unless you turn off sharing when importing them. Your existing sharing choices are kept.
 
 ## New in 2.1.0
 
