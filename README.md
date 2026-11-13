@@ -4,9 +4,16 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 2.0.3 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 2.1.0 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
+
+## New in 2.1.0
+
+- Find decisions in selected project sources and suggest links between accepted memories with Apple Intelligence on supported Macs.
+- Write your own memories in Knowledge, with a source when you have one.
+- Create Markdown files in the project’s own Documents folder, reveal it in Finder, and search for notes to add.
+- Open projects in Overview and move them to Drafts or restore them when you need them again.
 
 ## New in 2.0.0
 
