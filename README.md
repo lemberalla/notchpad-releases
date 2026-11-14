@@ -4,9 +4,15 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 2.1.1 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 2.1.2 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
+
+## New in 2.1.2
+
+- **Try a quick note before starting the trial.** Write in an editable note, then open it from the notch widget to see how both views work together. Choose **Skip for now** to go straight to your library.
+- **Start a project with what you have.** Create a project and land on its Overview. Add a folder of project docs or import an existing Codex or Claude Code chat when you’re ready.
+- **Read tables more easily in light themes.** Table borders are clearer in Paper and Beige, including in existing notes.
 
 ## New in 2.1.1
 
