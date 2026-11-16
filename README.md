@@ -4,7 +4,7 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 2.2.0 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 2.2.1 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
 
@@ -13,6 +13,12 @@ Rich notes, clipboard history and reusable snippets for Mac — in a full deskto
 - Use NotchPad in Arabic, German, Spanish, French, Japanese, Thai, Turkish, or Simplified Chinese. Follow your Mac’s preferred language or choose one in Settings.
 - Write Arabic and English in the same note. Paragraphs follow their text direction, including in table cells.
 - Discover the notch widget from the first-run workspace and continue editing the same note in either view.
+
+### Appendix for 2.2.1
+
+- The sidebar follows your pointer smoothly as you drag its edge and remembers the width when you release.
+- Sidebar labels stay on one line. Hover over a label that doesn’t fit to scroll through the full text.
+- More consistent translations for Snippets, stickies, Ghost Privacy, and the one-time Pro purchase.
 
 ## New in 2.1.2
 
