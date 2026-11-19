@@ -4,7 +4,7 @@
 
 Rich notes, clipboard history and reusable snippets for Mac — in a full desktop workspace, your notch, or sticky notes beside your work.
 
-**NotchPad 2.2.1 · Apple silicon · macOS 15 or later · No notch required**
+**NotchPad 2.2.2 · Apple silicon · macOS 15 or later · No notch required**
 
 [Download NotchPad](https://notchpad.app/download) · [14-day trial and pricing](https://notchpad.app/pricing) · [Release notes](https://notchpad.app/releases)
 
@@ -19,6 +19,11 @@ Rich notes, clipboard history and reusable snippets for Mac — in a full deskto
 - The sidebar follows your pointer smoothly as you drag its edge and remembers the width when you release.
 - Sidebar labels stay on one line. Hover over a label that doesn’t fit to scroll through the full text.
 - More consistent translations for Snippets, stickies, Ghost Privacy, and the one-time Pro purchase.
+
+### Appendix for 2.2.2
+
+- Open the notch widget with the labeled **Widget** button in the workspace toolbar.
+- Find the window button at the far right of the widget toolbar, keeping the switcher in a consistent position across both views.
 
 ## New in 2.1.2
 
